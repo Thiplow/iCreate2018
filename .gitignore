@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+/justori/motion.mp3/icreate/Library/
+/justori/motion.mp3/icreate/[Tt]emp/
+/justori/motion.mp3/icreate/[Oo]bj/
+/justori/motion.mp3/icreate/[Bb]uild/
+/justori/motion.mp3/icreate/[Bb]uilds/
+/justori/motion.mp3/icreate/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 /.vs/
