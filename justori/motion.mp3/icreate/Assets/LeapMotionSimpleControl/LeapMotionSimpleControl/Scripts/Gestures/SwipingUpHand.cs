@@ -15,7 +15,7 @@ namespace LeapMotionSimpleControl
 		{
 			base.Awake ();
 			CurrentType = GestureManager.GestureTypes.SwipingUp;
-	
+            specificEvent = OnSwipeEvent;
 		}
 	
 		// Update is called once per frame
@@ -34,5 +34,13 @@ namespace LeapMotionSimpleControl
 			}
 			return false;
 		}
-	}
+
+        
+        void OnSwipeEvent()
+        {
+            print("cc");
+        }
+        
+
+    }
 }
