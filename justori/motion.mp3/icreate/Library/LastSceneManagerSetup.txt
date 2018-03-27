@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/LeapMotionSimpleControl/LeapMotionSimpleControl/Scene/Demo_VR_Movement.unity
+- path: Assets/Univers/univers1.unity
   isLoaded: 1
   isActive: 1
