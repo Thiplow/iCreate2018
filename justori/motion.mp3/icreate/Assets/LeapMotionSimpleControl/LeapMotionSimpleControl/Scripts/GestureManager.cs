@@ -13,6 +13,7 @@ namespace LeapMotionSimpleControl
 {
 	public class GestureManager : MonoBehaviour
 	{
+        public Utilisateur utilisateur;
 
 		public enum GestureTypes
 		{
