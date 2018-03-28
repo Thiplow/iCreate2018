@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Leap.Unity
 {
-    public class Son : MonoBehaviour
+    public class Sound : MonoBehaviour
     {
 
         [SerializeField]
